@@ -1,0 +1,13 @@
+{
+  "target_id": "NSCLC_KRAS_001",
+  "target_name": "KRAS_G12C",
+  "target_class": "small GTPase",
+  "disease": "Non-small cell lung cancer",
+  "disease_prevalence": 50.0,
+  "validation_score": 0.90,
+  "druggability_score": 0.60,
+  "clinical_evidence": ["Approved covalent inhibitors"],
+  "known_modulators": ["sotorasib", "adagrasib"],
+  "market_size_usd": 8000.0,
+  "unmet_need_score": 0.80
+}
